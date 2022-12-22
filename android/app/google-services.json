@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "323346947784",
+    "project_id": "report7news-aad42",
+    "storage_bucket": "report7news-aad42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323346947784:android:ea104a7f0e8c3a90cd4ffd",
+        "android_client_info": {
+          "package_name": "com.vtechcoders.report7news"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323346947784-76e9vomnget3kbpof698kntmusdbus55.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA977dJcghltVy5eDLEE8koTKSD4KwcCFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323346947784-76e9vomnget3kbpof698kntmusdbus55.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
